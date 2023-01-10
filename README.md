@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm WNF. 👋
 
-<!--
-**w990752800/w990752800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 x
+- 🌱 xx
+- 🤔 xxx
+- ❤️ xxxx
+- 💬 Be free to ask me about anything [here](https://github.com/w990752800/w990752800/issues).
 
-Here are some ideas to get you started:
+### My Contributions
+![](https://raw.githubusercontent.com/w990752800/w990752800/main/assets/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=w990752800&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w990752800&hide_border=true">
